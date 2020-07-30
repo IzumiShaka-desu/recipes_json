@@ -1,2 +1,2 @@
 # recipes_json
-this is Json file which contains 2k recipes
+this is Json file which contains 3k recipes
